@@ -1,0 +1,2 @@
+# Interpretable-Electricity-Theft-Detection-Using-LSTM-Transformer-Attention-and-GRAD-CAM
+We propose an interpretable pipeline for electricity theft detection using LSTM, Transformer attention, and Grad-CAM over 7-day windows. On SGCC-like data, it achieves strong ROC-AUC/PR-AUC and explains predictions via saliency bars and attention maps. We also study imbalance handling, window length, and deployment ethics.
